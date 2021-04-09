@@ -1,0 +1,29 @@
+
+.hombar{
+    color: #DD00FF;
+    background-color: #DD00FF;
+}
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+  }
+  
+  a {
+    color: #4154f1;
+    text-decoration: none;
+  }
+  body {
+	text-align: center;
+}
+.thead{
+  background-color: #BA55D3;
+}
+.footer {
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#BA55D3;
+   color: white;
+   text-align: center;
+}
